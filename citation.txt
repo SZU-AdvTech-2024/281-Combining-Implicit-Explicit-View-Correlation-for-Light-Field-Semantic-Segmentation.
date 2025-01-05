@@ -1,0 +1,7 @@
+@inproceedings{REPO281,
+    author = "Cong, Ruixuan and Yang, Da and Chen, Rongshan and Wang, Sizhe and Cui, Zhenglong and Sheng, Hao",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "9172--9181",
+    title = "{Combining Implicit-Explicit View Correlation for Light Field Semantic Segmentation}",
+    year = "2023"
+}
